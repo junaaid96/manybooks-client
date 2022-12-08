@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+   <string name="app_name">manybooooks</string>  
+   <string name="facebook_app_id">1502436360190563</string>  
+   <string name="fb_login_protocol_scheme">fb2432431656989926</string>  
+    <string name="facebook_client_token">844cc062bd569bdda3469a3c3cfc50d3</string>
+
+</resources> 

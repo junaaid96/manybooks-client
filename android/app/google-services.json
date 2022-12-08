@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "19204081567",
+    "firebase_url": "https://manybooks-6261b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "manybooks-6261b",
+    "storage_bucket": "manybooks-6261b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19204081567:android:cf0a9907ca227b0ddddfaa",
+        "android_client_info": {
+          "package_name": "com.example.manybooks_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19204081567-j7evgjjb2tg4krclpi2c5ht50h5vl4rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manybooks_v2",
+            "certificate_hash": "79918b2668d4a21ea31b07d3a9328f68fdc51f2b"
+          }
+        },
+        {
+          "client_id": "19204081567-kl99td6h0nbo61tkbstba07ef2dp4vsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa_F7YV4r3Q_2NCDXPCAclwJCZj48U6DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19204081567-kl99td6h0nbo61tkbstba07ef2dp4vsn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19204081567-16jbneos58i4nfse8rincc4927daep5r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.manybooksAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
